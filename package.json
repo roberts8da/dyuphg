@@ -1,5 +1,5 @@
 {
-  "name": "node-ws",
+  "name": "myapp",
   "version": "1.0.0",
   "description": "Node.js Server",
   "main": "index.js",
